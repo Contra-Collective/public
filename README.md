@@ -24,11 +24,7 @@ This GitHub is primarily used for private client project repositories and intern
 
 To explore our portfolio, strategic insights, or technical content:
 
-Website (Case Studies): https://contracollective.com/
-
-Professional Insights (LinkedIn): https://www.linkedin.com/company/contracollective/
-
-E-commerce Tutorials (YouTube): [Link to your new YouTube Channel]
+Website: https://contracollective.com/
 
 🎯 Technical Focus Areas
 
