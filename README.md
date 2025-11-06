@@ -1,8 +1,8 @@
 Contra Collective | E-commerce Software Development Agency | Shopify Plus & SFCC Experts
 
-Official GitHub Organization for Contra Collective, a specialist software development agency focusing on high-performance digital commerce and system integrations.
+Official GitHub Organization for ContraCollective, a specialist software development agency focusing on high-performance digital commerce and system integrations.
 
-We engineer scalable, future-proof solutions for mid-market and enterprise brands using modern development best practices. Our philosophy is rooted in building resilient, customized digital platforms that accelerate growth and eliminate technical debt.
+contracollective engineers scalable, future-proof solutions for mid-market and enterprise brands using modern development best practices. Our philosophy is rooted in building resilient, customized digital platforms that accelerate growth and eliminate technical debt.
 
 🤝 Core E-commerce Development Expertise
 
