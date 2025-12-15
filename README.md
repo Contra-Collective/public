@@ -1,55 +1,52 @@
-Contra Collective | E-commerce Software Development Agency | Shopify Plus & SFCC Experts
+# Contra Collective
 
-Official GitHub Organization for ContraCollective, a specialist software development agency focusing on high-performance digital commerce and system integrations.
+**Enterprise E-commerce Development Agency** · Shopify Plus · Salesforce Commerce Cloud · Headless Architecture
 
-contracollective engineers scalable, future-proof solutions for mid-market and enterprise brands using modern development best practices. Our philosophy is rooted in building resilient, customized digital platforms that accelerate growth and eliminate technical debt.
+[![Website](https://img.shields.io/badge/Website-contracollective.com-blue?style=flat-square)](https://contracollective.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Contra%20Collective-0077B5?style=flat-square&logo=linkedin)](https://www.linkedin.com/company/contracollective)
+[![Medium](https://img.shields.io/badge/Medium-@contracollective-000000?style=flat-square&logo=medium)](https://medium.com/@contracollective)
+[![YouTube](https://img.shields.io/badge/YouTube-Contra%20Collective-FF0000?style=flat-square&logo=youtube)](https://youtube.com/@contracollective)
 
-🤝 Core E-commerce Development Expertise
+---
 
-We deliver enterprise-level e-commerce development and seamless system architecture:
+Contra Collective is a specialist software development agency building high-performance digital commerce platforms for mid-market and enterprise brands. We architect scalable, resilient systems that eliminate technical debt and accelerate growth.
 
-Salesforce Commerce Cloud (SFCC) Optimization: Custom cartridge development, platform configuration, and complex backend integrations for enterprise scale.
+## Open Source
 
-Shopify Plus Headless Builds: Custom app development, Storefront API solutions, and migration planning.
+We build tools for the developer community:
 
-Headless CMS Architecture: Expertise with modern platforms like Sanity and Contentful for content orchestration across multiple channels.
+| Project | Description |
+|---------|-------------|
+| [**ShellShade**](https://github.com/contra-collective/shellshade) | Cross-platform terminal theme manager with 43+ themes. Electron-based GUI + CLI for macOS, Windows, Linux. |
 
-System Integration: Unifying core business platforms (ERPs, OMS, 3PLs) with the digital storefront to ensure a single source of truth.
+## What We Build
 
-Web & Mobile Applications: Full-stack development of bespoke, cross-platform tools using Flutter and React Native.
+**Shopify Plus** — Custom app development, Storefront API implementations, headless builds, and platform migrations for high-volume merchants.
 
-🔗 Official Contra Collective Digital Assets
+**Salesforce Commerce Cloud** — SFCC cartridge development, platform optimization, and complex backend integrations at enterprise scale.
 
-This GitHub is primarily used for private client project repositories and internal development standards.
+**Headless Commerce** — Decoupled architectures using Next.js, Svelte, and React with Sanity or Contentful for content orchestration.
 
-To explore our portfolio, strategic insights, or technical content:
+**System Integration** — ERP, OMS, and 3PL unification with commerce platforms. NetSuite, QuickBooks, and custom middleware.
 
-Website: https://contracollective.com/
+**Cross-Platform Apps** — Flutter and React Native development for iOS, Android, and desktop.
 
-🎯 Technical Focus Areas
+## Stack
 
-Contra Collective utilizes modern, composable architecture to solve complex business logic:
+```
+Frontend        Next.js · React · Vue · Svelte
+Mobile          Flutter · React Native
+Backend         Node.js · Python · GraphQL · Serverless
+Infrastructure  GCP · AWS · Kubernetes · Cloud Run
+Data            PostgreSQL · MongoDB · Firebase · Typesense
+```
 
-Area
+## Work With Contra Collective
 
-Technologies
+We partner with brands ready to move beyond functional technology to world-class digital commerce.
 
-Front-End / Headless
+**→ [contracollective.com](https://contracollective.com)**
 
-Next.js, React, Vue, Svelte
+---
 
-Mobile Frameworks
-
-React Native, Flutter
-
-Back-End / API
-
-Node.js, Python, Serverless, GraphQL
-
-Cloud Platforms
-
-AWS, Google Cloud
-
-Databases
-
-PostgreSQL, MongoDB
+<sub>Los Angeles, CA · [Website](https://contracollective.com) · [LinkedIn](https://www.linkedin.com/company/contracollective) · [Medium](https://medium.com/@contracollective) · [YouTube](https://youtube.com/@contracollective)</sub>
