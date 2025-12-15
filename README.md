@@ -5,7 +5,7 @@
 [![Website](https://img.shields.io/badge/Website-contracollective.com-blue?style=flat-square)](https://contracollective.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Contra%20Collective-0077B5?style=flat-square&logo=linkedin)](https://www.linkedin.com/company/contracollective)
 [![Medium](https://img.shields.io/badge/Medium-@contracollective-000000?style=flat-square&logo=medium)](https://medium.com/@contracollective)
-[![YouTube](https://img.shields.io/badge/YouTube-Contra%20Collective-FF0000?style=flat-square&logo=youtube)](https://youtube.com/@contracollective)
+[![YouTube](https://img.shields.io/badge/YouTube-Contra%20Collective-FF0000?style=flat-square&logo=youtube)](https://youtube.com/@contracollectiveagency)
 
 ---
 
