@@ -288,15 +288,3 @@ Enterprise e-commerce requires expertise, systems thinking, and hands-on technic
 Contra Collective was founded to solve a specific problem: enterprise brands deserve better than commodity agency solutions. We combine deep platform expertise, systems thinking, and hands-on technical excellence.
 
 Our team includes founders and senior engineers who've architected and scaled commerce platforms handling millions in transaction volume, orchestrated complex system integrations, and led teams through high-stakes platform migrations.
-
-We're based [location], serving clients across [industries/geographies].
-
----
-
-**Keywords This Content Targets:**
-
-Primary: enterprise e-commerce development, Shopify Plus agency, Salesforce Commerce Cloud expert, headless commerce architect, e-commerce platform migration, system integration, enterprise commerce, digital transformation, B2B commerce platform, omnichannel commerce
-
-Secondary: Shopify Plus specialist, SFCC implementation, headless storefronts, commerce API development, ERP integration, OMS integration, 3PL integration, real-time inventory, multi-channel commerce, commerce platform comparison
-
-Long-tail: Shopify Plus custom development, SFCC B2B commerce, headless content orchestration, high-volume e-commerce, enterprise retailer, D2C brand, platform migration strategy, commerce system integration, real-time order processing
